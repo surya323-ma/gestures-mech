@@ -1,6 +1,4 @@
 # Gesture Mech — Agentic AI Robot Control Interface
-Dev/Creator: **tubakhxn**
-
 A computer-vision + robotics experiment: hand and finger gestures drive a stylized
 on-screen mechanical robot (and, optionally, a real servo rig).
 
