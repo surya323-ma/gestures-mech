@@ -1,4 +1,3 @@
-// dev/creator=tubakhxn  -- servo receiver for Gesture Mech (Arduino Uno/Nano, 6 servos)
 #include <Servo.h>
 const int N = 6;
 const int PINS[N] = {3, 5, 6, 9, 10, 11};
