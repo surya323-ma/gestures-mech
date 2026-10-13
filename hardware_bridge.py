@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# dev/creator=tubakhxn
+
 """Optional serial bridge: sends smoothed robot pose to an Arduino/ESP32 servo rig.
 
 Protocol (ASCII, 20 Hz max):  S,<s0>,<s1>,<s2>,<s3>,<s4>,<s5>\\n   (servo angles, degrees)
